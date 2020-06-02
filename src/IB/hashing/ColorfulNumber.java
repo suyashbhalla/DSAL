@@ -1,4 +1,4 @@
-package IB;
+package IB.hashing;
 
 import java.util.ArrayList;
 import java.util.HashSet;

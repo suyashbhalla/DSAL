@@ -1,4 +1,4 @@
-package IB;
+package IB.BackTracking;
 
 import java.util.*;
 
