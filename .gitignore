@@ -167,3 +167,4 @@ Practice.java
 
 *.iml
 .idea
+/src/smu/assignment/*.java
